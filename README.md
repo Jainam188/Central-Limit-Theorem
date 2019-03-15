@@ -3,7 +3,7 @@ Explaining the use of Central Limit Theorem using Airline Dataset
 
 Central limit theorem is simply state as a sample size grows, the sample mean gets closer to the population mean.
 
-Main 4 step that needs to followed to archive Central Limit Theorem
+    Main 4 step that needs to followed to archive Central Limit Theorem
 
     1. Sample mean will be less spread than the whole population.
 
@@ -20,11 +20,11 @@ and when you see the final image normal distribution it will be same the whole p
 
 #dependancies
 
-#import pandas
+ import pandas
 
-#import random
+ import random
 
-#import matplotlib
+ import matplotlib
 
     #More Learning
     If you want to learn more than try to visualize all the graph into a GIF image that will help to represent the concept of central limit theorem.
