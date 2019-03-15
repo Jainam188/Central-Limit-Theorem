@@ -20,11 +20,11 @@ and when you see the final image normal distribution it will be same the whole p
 
 #dependancies
 
- import pandas
+   import pandas
 
- import random
+   import random
 
- import matplotlib
+   import matplotlib
 
     #More Learning
     If you want to learn more than try to visualize all the graph into a GIF image that will help to represent the concept of central limit theorem.
